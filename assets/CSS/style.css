@@ -4,26 +4,21 @@ body{
 }
 #accroche{
   display: inline-flex;
-  color:#FFD2F9;
-}
-#identity{
-
-}
-#name{
-  color: #FE0000;
+  color:white;
 }
 #introductionText{
   font-style: oblique;
 }
 #adage{
   margin-top: 15%;
-  color: #FE0000;
+  color: white;
   font-family: Calligraffitti;
   font-size: 20px;
 }
 #menu{
   width: 100%;
   padding-top: 40px;
+  padding-bottom: 40px;
   border-top: 2px solid white;
   border-bottom: 2px solid white;
 }
@@ -41,7 +36,7 @@ a:hover span {
 #competences{
   height: 100%;
   width: 100%;
-  padding-top: 30px;
+  padding-top: 10px;
 }
 #projet{
   height: 70%;
@@ -50,12 +45,11 @@ a:hover span {
 #evolution{
   height: 100%;
   width: 100%;
-  padding-top: 50px;
+  padding-top: 10px;
 }
 #contact{
-  height: 70%;
-  width: 70%;
-  padding-top: 20px;
+  height: 60%;
+  width: 60%;
 }
 /*Le footer*/
 /* La photo */
