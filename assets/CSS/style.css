@@ -1,6 +1,6 @@
 /*--Page d'accueil--*/
 body{
-  background-image:url("/home/valerie/Documents/newCV/assets/img/fond-ecran.jpg");
+  background-image:url("assets/img/fond-ecran.jpg");
 }
 #accroche{
   display: inline-flex;
