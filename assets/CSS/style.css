@@ -10,16 +10,16 @@ body{
 
 }
 #name{
-  color: #147C99;
+  color: #FE0000;
 }
 #introductionText{
   font-style: oblique;
 }
 #adage{
   margin-top: 15%;
-  color: #EEBA55;
+  color: #FE0000;
   font-family: Calligraffitti;
-
+  font-size: 20px;
 }
 #menu{
   width: 100%;
@@ -56,6 +56,23 @@ a:hover span {
   height: 70%;
   width: 70%;
   padding-top: 20px;
+}
+/*Le footer*/
+/* La photo */
+#photo{
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-right: 2px solid white;
+}
+#borderPhoto{
+  box-shadow: 2px 4px 4px white;
+}
+#homeText{
+  font-style: oblique;
+}
+#signature{
+  font-size: 30px;
+  font-family: Calligraffitti;
 }
 /*--Page sur les compétences--*/
 #pageCompetences{
