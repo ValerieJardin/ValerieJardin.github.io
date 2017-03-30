@@ -59,7 +59,7 @@ a:hover span {
 }
 /*--Page sur les compétences--*/
 #pageCompetences{
-  background-image: url("/home/valerie/Documents/newCV/assets/img/fond-compétences.jpg");
+  background-image: url("assets/img/fond-compétences.jpg");
 }
 .inter_title, .assets{
   font-family: Pacifico;
@@ -71,6 +71,6 @@ a:hover span {
 /*--Page sur mes projets--*/
 /*--Page sur mon évolution--*/
 #pageEvolution{
-  background-image: url("/home/valerie/Documents/newCV/assets/img/fond-évolution.jpeg");
+  background-image: url("assets/img/fond-évolution.jpeg");
 }
 /*--Page sur me contacter--*/
