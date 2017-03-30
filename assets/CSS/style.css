@@ -6,9 +6,7 @@ body{
   display: inline-flex;
   color:white;
 }
-#introductionText{
-  font-style: oblique;
-}
+
 #adage{
   margin-top: 15%;
   color: white;
@@ -22,34 +20,42 @@ body{
   border-top: 2px solid white;
   border-bottom: 2px solid white;
 }
+/* Le contenu des span contenus dans des a sont cachés
 a span {
-  /* -- Les span contenus dans des a sont cachés-- */
-  display: none;
+  display: flex;
   position: absolute;
   font-family: Pacifico;
   font-size: 20px;
 }
+Le contenu des span sont affichés au survol
 a:hover span {
-  /* -- Les span sont affichés au survol du a -- */
   display: block;
-}
-#competences{
+} */
+.competences{
   height: 100%;
   width: 100%;
   padding-top: 10px;
+  font-family: Pacifico;
+  font-size: 20px;
 }
-#projet{
+.projet{
   height: 70%;
   width: 70%;
+  font-family: Pacifico;
+  font-size: 20px;
 }
-#evolution{
+.evolution{
   height: 100%;
   width: 100%;
   padding-top: 10px;
+  font-family: Pacifico;
+  font-size: 20px;
 }
-#contact{
+.contact{
   height: 60%;
   width: 60%;
+  font-family: Pacifico;
+  font-size: 20px;
 }
 /*Le footer*/
 /* La photo */
