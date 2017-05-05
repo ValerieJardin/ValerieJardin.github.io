@@ -88,6 +88,14 @@ a:hover span {
 .assets{
   font-size: 20px;
 }
+.return_home_link{
+  color: white;
+  font-family: Pacifico;
+}
+.return_home_img{
+  height: 20%;
+  width: 20%;
+}
 /*--Page sur mes projets--*/
 /*--Page sur mon évolution--*/
 #pageEvolution{
