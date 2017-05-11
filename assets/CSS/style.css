@@ -74,6 +74,11 @@ a:hover span {
   font-size: 30px;
   font-family: Calligraffitti;
 }
+/*--Photo pour le retour à la page d'accueil--*/
+.img-circle{
+  width: 15%;
+  height: 15%;
+}
 /*--Page sur les compétences--*/
 #pageCompetences{
   background-image: url("../img/fond-compétences.jpg");
@@ -102,3 +107,20 @@ a:hover span {
   background-image: url("../img/fond-évolution.jpeg");
 }
 /*--Page sur me contacter--*/
+.fa{
+  color: white;
+}
+.contact_info{
+  color: white;
+  font-family: Pacifico;
+  font-size: 20px;
+}
+.logo_github{
+  width: 20%;
+}
+.logo_linkedin{
+  width: 20%;
+}
+.contact_links{
+  justify-content: space-around;
+}
