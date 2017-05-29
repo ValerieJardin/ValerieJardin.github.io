@@ -145,7 +145,10 @@ margin-top: 30px;
 }
 /*--Page sur mon évolution--*/
 #pageEvolution{
-  background-image: url("../img/flocon.jpg");
+  background-image: url("../img/zen.jpg");
+}
+.titleProjects{
+  color:#D8CCA6;
 }
 /*--Page sur me contacter--*/
 #pageContact{
